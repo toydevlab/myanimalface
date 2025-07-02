@@ -4,8 +4,7 @@
 
 > 사진 한 장으로 내 얼굴과 닮은 동물상을 찾아주는 AI 기반 웹 애플리케이션입니다. Google의 Teachable Machine으로 학습된 이미지 분류 모델을 사용하여, 사용자가 업로드한 사진을 분석하고 가장 닮은 동물상과 일치율을 재미있는 코멘트와 함께 보여줍니다.
 
-**[➡️ Live Demo 바로가기](https://your-github-username.github.io/your-repo-name/)**  
-*(추후 GitHub Pages 배포 후 이 링크를 실제 주소로 수정하세요.)*
+**[➡️ Live Demo 바로가기](https://toydevlab.github.io/myanimalface/)**  
 
 ---
 
@@ -27,8 +26,8 @@
 
 1.  **프로젝트 클론**
     ```bash
-    git clone https://github.com/your-github-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/toydevlab/myanimalface.git
+    cd myanimalface
     ```
 
 2.  **파일 실행**
@@ -36,7 +35,7 @@
 
 ## 🌐 GitHub Pages로 배포하기
 
-1.  이 프로젝트를 당신의 GitHub 계정에 `your-repo-name`이라는 이름으로 새로운 저장소(repository)를 만들어 푸시합니다.
+1.  이 프로젝트를 당신의 GitHub 계정에 `myanimalface`이라는 이름으로 새로운 저장소(repository)를 만들어 푸시합니다.
 2.  저장소의 **Settings** 탭으로 이동합니다.
 3.  왼쪽 메뉴에서 **Pages**를 클릭합니다.
 4.  **Branch** 항목에서 `main` (또는 `master`) 브랜치를 선택하고 `/root` 폴더를 지정한 뒤 **Save** 버튼을 누릅니다.
